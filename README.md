@@ -7,9 +7,12 @@ Engineering student at CentraleSupélec with strong focus on Artificial Intellig
 - 🏛️ Based in Paris, France
 
 🛠️ Projects & Contributions
-- Specialized AI & Engineering Courses – CentraleSupélec
-- ZenkoLab Projects
-- CommunityShare, a Django web application that aims to create a platform to share and borrow objets to your neighborhoods
+- Specialized AI & Engineering Courses – CentraleSupélec : [https://github.com/ChakibCrypton/CentraleSupelec-Courses.git]
+- CommunityShare, a Django web application that aims to create a platform to share and borrow objets to your neighborhoods: [https://github.com/ChakibCrypton/CommunityShare.git]
+- ZenkoLab, a AI model that aims to detect serious eye diseases to enable faster treatment
+- LagTrade, a Quantitative Finance project that use the order book of BTC to take position on the ETH on a market simulation
+  that we have built with real data : [https://github.com/ChakibCrypton/LagTrade.git]
+
 
 🏆 Achievements & Involvement
 - Vice President of Automatants, the AI association of CentraleSupélec
