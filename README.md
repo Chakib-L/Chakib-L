@@ -1,37 +1,50 @@
 ## Hi there 👋 I'm Chakib Lahrach
 
-Engineering student at CentraleSupélec with strong focus on Artificial Intelligence and Entrepreneurship
+Engineering student at CentraleSupélec with strong focus on **Artificial Intelligence** and **Entrepreneurship**.
 
-🎓 About Me
-- 🌟 Passionate about AI Research
-- 🏛️ Based in Paris, France
+---
 
-🛠️ Projects & Contributions
-- Specialized AI & Engineering Courses – CentraleSupélec : [https://github.com/ChakibCrypton/CentraleSupelec-Courses.git]
-- CommunityShare, a Django web application that aims to create a platform to share and borrow objets to your neighborhoods: [https://github.com/ChakibCrypton/CommunityShare.git]
-- ZenkoLab, a AI model that aims to detect serious eye diseases to enable faster treatment
-- LagTrade, a Quantitative Finance project that uses the order book of BTC to take position on the ETH on a market simulation
-  that we have built with real data : [https://github.com/ChakibCrypton/LagTrade.git]
+### 🎓 About Me
+- 🌟 Passionate about AI Research  
+- 🏛️ Based in Paris, France  
 
+---
 
-🏆 Achievements & Involvement
-- Vice President of Automatants, the AI association of CentraleSupélec
-- Vice President of Unaite which was founded by the AI associations of CentraleSupélec, Polytechnique, Télécom Paris, Dauphine, Les Ponts and l'ESSEC.
-- CTO at ZenkoLab, an AI-driven ophthalmic imaging company.
+### 🛠️ Projects & Contributions
 
-  
+#### 🧠 [ZenkoLab](https://github.com/Chakib-L/zenkolab-poc)  
+An **AI-powered ophthalmic imaging platform** to detect serious eye diseases and enable faster treatment.  
+**Technologies**: FastAPI, PyTorch, Streamlit, Docker, PostgreSQL  
 
-<!--
-**ChakibCrypton/ChakibCrypton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### 📈 [LagTrade](https://github.com/ChakibCrypton/LagTrade)  
+A **quantitative finance project** that leverages BTC order book data to take positions on ETH in a custom-built market simulator.  
+**Technologies**: Python, Pandas, NumPy, Market Simulation Engine  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 💼 [JP_Morgan_Tasks](https://github.com/ChakibCrypton/JP_Morgan_Tasks)  
+A set of **four notebooks** from the **JPMorgan Quantitative Researcher simulation on Forge**, covering data analysis, model implementation, and trading strategies.  
+**Technologies**: Python, scikit-learn, Jupyter Notebooks, Pandas, NumPy  
+
+---
+
+#### 🔬 [CassavaLeafCompetition](https://github.com/ChakibCrypton/CassavaLeafCompetition)  
+Image classification project for **cassava leaf disease detection** (Kaggle competition).  
+**Technologies**: PyTorch, ResNet, MobileNet, Grad-CAM, Docker, NVIDIA DGX  
+
+---
+
+#### 🌐 [CommunityShare](https://github.com/ChakibCrypton/CommunityShare)  
+A **Django web application** that allows neighborhoods to share and borrow objects.  
+**Technologies**: Django, Python, HTML/CSS, PostgreSQL  
+
+---
+
+### 🏆 Achievements & Involvement
+- Vice President of **Automatants**, the AI association of CentraleSupélec  
+- Vice President of **Unaite**, a cross-school AI initiative (CentraleSupélec, Polytechnique, Télécom Paris, Dauphine, Les Ponts, ESSEC)  
+- **CTO at ZenkoLab**, an AI-driven ophthalmic imaging company  
+
+---
