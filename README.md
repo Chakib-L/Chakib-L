@@ -30,7 +30,7 @@ A set of **four notebooks** from the **JPMorgan Quantitative Researcher simulati
 
 ---
 
-#### 🔬 [CassavaLeafCompetition](https://github.com/Chakib-L/CassavaLeafCompetition)  
+#### 🔬 [CassavaLeafClassification](https://github.com/Chakib-L/CassavaLeafClassification)  
 Image classification project for **cassava leaf disease detection** (Kaggle competition).  
 **Technologies**: PyTorch, ResNet, MobileNet, Grad-CAM, Docker, NVIDIA DGX  
 
