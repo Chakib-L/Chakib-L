@@ -18,25 +18,25 @@ An **AI-powered ophthalmic imaging platform** to detect serious eye diseases and
 
 ---
 
-#### 📈 [LagTrade](https://github.com/ChakibCrypton/LagTrade)  
+#### 📈 [LagTrade](https://github.com/Chakib-L/LagTrade)  
 A **quantitative finance project** that leverages BTC order book data to take positions on ETH in a custom-built market simulator.  
 **Technologies**: Python, Pandas, NumPy, Market Simulation Engine  
 
 ---
 
-#### 💼 [JP_Morgan_Tasks](https://github.com/ChakibCrypton/JP_Morgan_Tasks)  
+#### 💼 [JP_Morgan_Tasks](https://github.com/Chakib-L/JP_Morgan_Tasks)  
 A set of **four notebooks** from the **JPMorgan Quantitative Researcher simulation on Forge**, covering data analysis, model implementation, and trading strategies.  
 **Technologies**: Python, scikit-learn, Jupyter Notebooks, Pandas, NumPy  
 
 ---
 
-#### 🔬 [CassavaLeafCompetition](https://github.com/ChakibCrypton/CassavaLeafCompetition)  
+#### 🔬 [CassavaLeafCompetition](https://github.com/Chakib-L/CassavaLeafCompetition)  
 Image classification project for **cassava leaf disease detection** (Kaggle competition).  
 **Technologies**: PyTorch, ResNet, MobileNet, Grad-CAM, Docker, NVIDIA DGX  
 
 ---
 
-#### 🌐 [CommunityShare](https://github.com/ChakibCrypton/CommunityShare)  
+#### 🌐 [CommunityShare](https://github.com/Chakib-L/CommunityShare)  
 A **Django web application** that allows neighborhoods to share and borrow objects.  
 **Technologies**: Django, Python, HTML/CSS, PostgreSQL  
 
