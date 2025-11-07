@@ -44,7 +44,7 @@ A **Django web application** that allows neighborhoods to share and borrow objec
 
 ### 🏆 Achievements & Involvement
 - Vice President of **Automatants**, the AI association of CentraleSupélec  
-- Vice President of **Unaite**, a cross-school AI initiative (CentraleSupélec, Polytechnique, Télécom Paris, Dauphine, Les Ponts, ESSEC)  
+- President of **Unaite**, a cross-school AI initiative (CentraleSupélec, Polytechnique, Télécom Paris, Dauphine, Les Ponts, ESSEC, HEC & ENSAE)  
 - **CTO at ZenkoLab**, an AI-driven ophthalmic imaging company  
 
 ---
